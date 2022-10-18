@@ -52,7 +52,7 @@ export ARM_SUBSCRIPTION_ID=<subscriptionID>
 ```powershell
 mkdir C:\Azure_SAP_Automated_Deployment
     
-cd Azure_SAP_Automated_Deployment
+cd C:\Azure_SAP_Automated_Deployment
     
 git clone https://github.com/Azure/sap-automation.git 
 ```
